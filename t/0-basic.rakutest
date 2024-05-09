@@ -1,0 +1,6 @@
+use Test;
+use Pod::To::Anything;
+
+pass "replace me";
+
+done-testing;

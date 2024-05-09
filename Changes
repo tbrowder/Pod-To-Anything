@@ -1,4 +1,27 @@
-Revision history for Slidemaker
+Revision history for Pod-To-Anything
 
 {{$NEXT}}
+    - Added LICENSE file with test of the AGP 3.0 license
+    - deleted CHANGELOG.md (contents were added to the new, standard "Changes"
+        file)
+    - Added .github/ workflows 3 OS .yml files for Github testing
+    - Added dist.ini file for use in generating the README.md
+        and uploads to the zef module distro repo
+    - Added a basic load test
+    - Added an empty docs/README.rakudoc for use by App::Mi6
+        (to contain a POD version of the original README.md)
+
+0.1.0  2020-01-17T00:00:00-00:00
+    - Initial release
+      (Copied from the original CHANGELOG.md file.)
+
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic
+Versioning](http://semver.org/spec/v2.0.0.html).
+
+## [0.1.0] - 2020-01-17
+- Initial release
     - Initial version
