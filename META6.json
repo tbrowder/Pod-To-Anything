@@ -1,0 +1,23 @@
+{
+  "api": "0",
+  "authors": [
+    "Patrick Spek <p.spek@tyil.work>"
+  ],
+  "depends": [
+  ],
+  "description": "A base class to easily build Perl 6 Pod converters with",
+  "license": "AGPL-3.0",
+  "meta-version": 0,
+  "name": "Pod::To::Anything",
+  "perl": "6.c",
+  "provides": {
+    "Pod::To::Anything": "lib/Pod/To/Anything.pm6",
+    "Pod::To::Anything::Subsets": "lib/Pod/To/Anything/Subsets.pm6"
+  },
+  "resources": [
+  ],
+  "source-url": "https://home.tyil.nl/git/raku/Pod::To::Anything/",
+  "tags": [
+  ],
+  "version": "0.1.0"
+}
